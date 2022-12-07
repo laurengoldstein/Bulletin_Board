@@ -1,5 +1,9 @@
 # Bulletin Board
 
+## Intro:
+
+Bulletin Board is an EdTech tool that allows teachers to set up a digital display board for the current class assignment. Students and community members can view snapshots of students' completed work on each classroom page, and can click on each project to see the specific project in more detail. In the Teacher Admin portal, teachers can create new classrooms, add people to existing classrooms, and update the class assignment.In the Student Admin portal, students have the ability to update their personal space with their current assignment, which takes much of the work out of the teacher's hands.
+
 ## Prerequisites:
 
 - npm

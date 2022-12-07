@@ -30,7 +30,6 @@ function AddClassroomForm(props) {
   }
 
   return (
-    //upon log-in, user_id will be automatically collected
     <div className="AddTeacherForm">
       <form onSubmit={handleSubmit}>
         <label>
